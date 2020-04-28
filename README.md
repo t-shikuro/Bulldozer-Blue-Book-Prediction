@@ -1,11 +1,15 @@
-# Blue Book for Bulldozers 
+# Blue Book for Bulldozers
+
+For entire analysis and code see [Jupyter Notebook](https://t-shikuro.github.io/Bulldozer-Blue-Book-Prediction/)
+
+![](images/bulldozer.gif)
 
 🚜 Predicting the Sale Price of Bulldozers using Regression, specifically `RandomForestRegressor` and `XgBoost` models. The project focuses heavily on data preparation and cleaning (missing values, structuring datatypes, and textual columns). It is also time-series based where DataFrame data manipulation can be managed for advancing towards data modelling. As detailed in the following paragraphs, the training data preceeds 2012, validation data selected from 01/2012 - 04/2012, and the final testing data on 05/2012 - 11/2012.
 
 #### -- Project Status: [Near-Completion]
 
-## Project Objective 
-How well can a prediction be made on the future sale price of a bulldozer, given its characteristics and previous examples of how much similar bulldozers were sold for? 
+## Project Objective
+How well can a prediction be made on the future sale price of a bulldozer, given its characteristics and previous examples of how much similar bulldozers were sold for?
 
 **Note:** The goal for most regression evaluation metrics is to minimize the error. For example, the goal for this project will be to build a machine learning model which minimises RMSLE.
 
@@ -57,7 +61,7 @@ Kaggle provides a data dictionary detailing all of the features of the dataset. 
 * Switch back into the `bulldozer-prediction` directory using `cd ..`.
 
     *If using offline data mention that and how they may obtain the data from the froup)*
-    
+
 1. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
 2. etc...
 
@@ -73,4 +77,4 @@ Kaggle provides a data dictionary detailing all of the features of the dataset. 
 
 ## RESULTS:
 
-**(Contacts) : [TED SHIKURO](https://github.com/t-shikuro[t-shikuro])(@slackHandle)** 
+**(Contacts) : [TED SHIKURO](https://github.com/t-shikuro[t-shikuro])(@slackHandle)**
