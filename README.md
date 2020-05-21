@@ -1,6 +1,6 @@
 # Blue Book for Bulldozers
 
-For entire analysis and code see [Jupyter Notebook](https://t-shikuro.github.io/Bulldozer-Blue-Book-Prediction/)
+To view notebook click here: [Jupyter Notebook](https://t-shikuro.github.io/Bulldozer-Blue-Book-Prediction/)
 
 ![](images/bulldozer.gif)
 
